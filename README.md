@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused on building systems that scale, perform, and evolve. With over **3 years of full‑stack development experience**, I enjoy delivering products that make an impact.
+I'm a **Software Engineer** focused on building systems that scale, perform, and evolve. With over **3 years of full‑stack development experience**, I enjoy delivering products that make an impact.
 
 * 💡 Passionate about creating **scalable architectures** and **high‑performance applications**
 * 🔧 Skilled across **backend**, **frontend**, and **mobile engineering**
