@@ -69,6 +69,17 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdev-ke&layout=compact&theme=tokyonight" 
+    height="180"
+  />
+</p>
+
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true&theme=tokyonight"
@@ -83,18 +94,6 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
     alt="GitHub Stats"
   />
 </picture>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdev-ke&layout=compact&theme=tokyonight" 
-    height="180"
-  />
-</p>
-
 
 ### 🔥 Contribution Streak
 
