@@ -26,6 +26,14 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 
 ---
 
+## 🏗️ Featured Projects
+
+* **Full‑stack apps** showcasing scalable architecture
+* **React Native mobile apps** built for performance
+* **Backend systems** using modern engineering patterns
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -59,14 +67,6 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 
 ---
 
-## 🏗️ Featured Projects
-
-* **Full‑stack apps** showcasing scalable architecture
-* **React Native mobile apps** built for performance
-* **Backend systems** using modern engineering patterns
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -85,6 +85,8 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Contribution Streak
 
