@@ -5,14 +5,14 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <a href="https://github.com/silasmungiria">
+  <a href="https://github.com/silasdev-ke">
     <img src="https://img.shields.io/badge/Repositories-10%20MB-green?style=flat-square" alt="Repository Size">
   </a>
-  <a href="https://github.com/silasmungiria">
-    <img src="https://komarev.com/ghpvc/?username=silasmungiria&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <a href="https://github.com/silasdev-ke">
+    <img src="https://komarev.com/ghpvc/?username=silasdev-ke&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </a>
-  <a href="https://github.com/silasmungiria?tab=followers">
-    <img src="https://img.shields.io/github/followers/silasmungiria?label=Followers&style=social" alt="Followers">
+  <a href="https://github.com/silasdev-ke?tab=followers">
+    <img src="https://img.shields.io/github/followers/silasdev-ke?label=Followers&style=social" alt="Followers">
   </a>
 </p>
 
@@ -37,7 +37,7 @@ I'm a Software Engineer with over 3 years of experience in full-stack developmen
 ## Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/silasmungiria">
+  <a href="https://linkedin.com/in/silasmugambi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wa.me/+254723396403">
@@ -81,14 +81,14 @@ I'm a Software Engineer with over 3 years of experience in full-stack developmen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasmungiria&langs_count=6&theme=algolia&layout=compact" alt="Top Languages" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=silasmungiria&show_icons=true&theme=algolia&layout=compact" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdev-ke&langs_count=6&theme=algolia&layout=compact" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true&theme=algolia&layout=compact" alt="GitHub Stats" height="180">
 </p>
 
 ## 🌟 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasmungiria&theme=algolia" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasdev-ke&theme=algolia" alt="GitHub Streak">
 </p>
 
 ## 💻 Explore My Repositories Below!
