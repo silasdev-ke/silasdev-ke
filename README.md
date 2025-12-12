@@ -32,7 +32,7 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
   <a href="https://linkedin.com/in/silasmugambi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/254723396403"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
   <a href="https://twitter.com/silasmungiria"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white" /></a>
-  <a href="https://silasmugambi.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <!-- <a href="https://silasmugambi.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a> -->
 </p>
 
 ---
@@ -42,13 +42,13 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 ### **Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,html,css,tailwind,python,django" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,nodejs,express,html,css,tailwind,python,django" />
 </p>
 
 ### **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 ### **DevOps & Tools**
@@ -66,10 +66,22 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdev-ke&layout=compact&theme=tokyonight" height="180" />
 </p>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true" />
+</picture>
+
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasdev-ke&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasdev-ke&theme=algolia" alt="GitHub Streak">
 </p>
 
 ### ⚡ Activity Graph
