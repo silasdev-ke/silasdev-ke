@@ -59,6 +59,14 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 
 ---
 
+## 🏗️ Featured Projects
+
+* **Full‑stack apps** showcasing scalable architecture
+* **React Native mobile apps** built for performance
+* **Backend systems** using modern engineering patterns
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -68,14 +76,14 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=silasdev-ke&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 ### 🔥 Contribution Streak
@@ -92,14 +100,6 @@ I'm a **Software Engineer** and **CTO at Radia Perlman Technologies**, focused o
 
 ---
 
-## 🏗️ Featured Projects
-
-* **Full‑stack apps** showcasing scalable architecture
-* **React Native mobile apps** built for performance
-* **Backend systems** using modern engineering patterns
-
 ➡️ *Scroll through my repositories below to explore more.*
-
----
 
 <p align="center"><em>💻 Always building. Always learning. Always shipping.</em></p>
